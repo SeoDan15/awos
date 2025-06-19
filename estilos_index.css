@@ -1,0 +1,26 @@
+
+.logo{
+    width: 7%;
+    float: left;
+    text-align: center;
+}
+.logo img{
+    width: 90%;
+    height: auto;
+}
+.nav{
+    width: 93;
+}
+footer{
+    height: 80px;
+    background-color: #f2f2f1;
+    padding: 5px;
+    padding-top: 10px;
+    color: #dd8283;
+}
+i{
+    color: #dd8283;
+}
+h5{
+    color: #dd8283;
+}
